@@ -27,8 +27,10 @@ namespace XORCrypt
             string fileName = string.Empty;
             do {
                 Console.Clear();
+                // E.g. : C:\Users\user\Desktop\
                 Console.Write("Please write the full directory the file is in: ");
                 dir = Console.ReadLine();
+                // E.g. : file.png
                 Console.Write("Please write the name of the file you wish to encrypt: ");
                 fileName = Console.ReadLine();
             } while (!File.Exists(dir + fileName));
