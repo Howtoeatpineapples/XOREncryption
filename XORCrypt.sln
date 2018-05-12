@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XORCrypt", "XORCrypt\XORCrypt.csproj", "{1DADBF75-0F94-4B3B-AF00-4ED23D5CAEA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DADBF75-0F94-4B3B-AF00-4ED23D5CAEA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DADBF75-0F94-4B3B-AF00-4ED23D5CAEA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DADBF75-0F94-4B3B-AF00-4ED23D5CAEA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DADBF75-0F94-4B3B-AF00-4ED23D5CAEA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D29893E-4510-46D1-A608-EF9099BB2C61}
+	EndGlobalSection
+EndGlobal
